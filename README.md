@@ -118,10 +118,4 @@ https://pystyle.info/opencv-background-substraction/
 
 -デバッグコマンド実装
 
-
-・v７
--  
-
-------参考文献------
-
 ------ ------
