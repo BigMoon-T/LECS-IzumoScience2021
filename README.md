@@ -103,7 +103,7 @@ https://pystyle.info/opencv-background-substraction/
 
 ・v1〜v3
 
-　　-基礎構築
+-基礎構築
     
 ・v４
 
